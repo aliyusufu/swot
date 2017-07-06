@@ -15,11 +15,11 @@ If you did not contributed to this repository before, please read the repository
 [-] lib
     [-] domains
         [-] edu
-            [+] harvard
-            [+] stanford
-        [-] uk
+            [+] makerere university kampala
+            
+        [-] ug
             [-] ac
-                [+] strath
+                [+] mak
 ```
 
 ##### Adding a School
